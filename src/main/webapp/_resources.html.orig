@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+ 
+  <!-- buttons and labels2 -->
+
+  <res name="button" lang="de">Knopf</res>
+  <res name="button" lang="en">Button</res>
+
+
+  <!-- Buttons and simple labels -->
+
+  <res name="add" lang="en">Add</res>
+  <res name="add" lang="de">Addieren</res>
+
+  <res name="submit" lang="de">Eintragen</res>
+  <res name="submit" lang="en">Submit</res>
+
+  <res name="edit" lang="de">Bearbeiten</res>
+  <res name="edit" lang="en">Edit</res>
+
+  <res name="new" lang="de">Neue</res>
+  <res name="new" lang="en">New</res>
+
+  <res name="super" lang="de">Uber</res>
+  <res name="super" lang="en">Super</res>
+
+  <res name="cancel" lang="de">Abbrechen</res>
+  <res name="cancel" lang="en">Cancel</res>
+
+  <res name="my resource" lang="en">Test</res>
+
+
+</resources>
